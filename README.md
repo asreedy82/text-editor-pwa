@@ -5,7 +5,7 @@
 This application is a text editor that saves the text you wrote even when you get disconnected from the internet. You can also dowload the app and use offline. This way you can take notes and save them for later. The app also has JavaScript syntax highlighting as it is geared towards JavaScript developers.
 
 [Link To Repo](https://github.com/asreedy82/text-editor-pwa)
-[Link to deployed app]()
+[Link to deployed app](https://stark-ridge-36854.herokuapp.com/)
 
 ## Installation
 
